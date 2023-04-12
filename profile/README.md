@@ -19,7 +19,7 @@
 Vote 62 เรามีเวลาให้เพียง 2 วัน ในการหาอาสาฯ แต่หน่วยเลือกตั้งมีมากกว่า 90,000 หน่วย เราได้อาสาฯสุทธิ์แค่ 1000-2000 คน 
 
 
-![snapshot of vote62.com/volunteer](https://raw.githubusercontent.com/korkortorplus/.github/main/profile/2023-04-12-20-16-36.png)[snapshot 12 Apr 2566 of vote62.com/volunteer]
+![snapshot of vote62.com/volunteer](https://raw.githubusercontent.com/korkortorplus/.github/main/profile/2023-04-12-20-16-36.png)[snapshot 12 Apr 2566 of [vote62.com/volunteer](https://www.vote62.com/volunteer/)]
 
 เราขาดการสื่อสาร ขาดเครื่องมือบริหารจัดการ อาสาฯทำงานแบบปัจเจกฯ ต่างคนต่างทำ
 
